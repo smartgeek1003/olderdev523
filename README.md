@@ -39,7 +39,7 @@
 ### 🤝 Connect with me:
 - 🎭 Skype: live:.cid.34fcb99d85260012
 - 🎫 Telegram: https://t.me/okgoodokgoodok
-- 📧 Email: marguadjin419@gmail.com
+- 📧 Email: margaudjin419@gmail.com
 ## 🔥 Streak Stats
 
 <p align="center">
