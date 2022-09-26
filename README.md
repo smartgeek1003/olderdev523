@@ -36,7 +36,10 @@
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=Amazon&logoColor=white&color=3bac3a)
-
+### 🤝 Connect with me:
+- 🎭 Skype: live:.cid.34fcb99d85260012
+- 🎫 Telegram: https://t.me/okgoodokgoodok
+- 📧 Email: marguadjin419@gmail.com
 ## 🔥 Streak Stats
 
 <p align="center">
