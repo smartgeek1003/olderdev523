@@ -1,4 +1,4 @@
-<h1 align="center">Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" alt="olderdev1003"> you're <a href="https://github.com/olderdev1003" color="white" target="_blank">Ralph</a></h1>
+<h1 align="center">Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" alt="olderdev1003"> I am <a href="https://github.com/olderdev1003" color="white" target="_blank">older dev</a></h1>
  <img src="https://gpvc.arturio.dev/olderdev1003" alt="Profile views" align='right'/> 
  <a href="https://github.com/olderdev1003/olderdev1003/"> </a>
 <br/>
