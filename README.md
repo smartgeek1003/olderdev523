@@ -1,10 +1,10 @@
-<h1 align="center">Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" alt="olderdev1003"> I am <a href="https://github.com/olderdev1003" color="white" target="_blank">older dev</a></h1>
- <img src="https://gpvc.arturio.dev/olderdev1003" alt="Profile views" align='right'/> 
- <a href="https://github.com/olderdev1003/olderdev1003/"> </a>
+<h1 align="center">Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" alt="olderdev523"> I am <a href="https://github.com/olderdev523" color="white" target="_blank">older dev</a></h1>
+ <img src="https://gpvc.arturio.dev/olderdev523" alt="Profile views" align='right'/> 
+ <a href="https://github.com/olderdev523/olderdev523/"> </a>
 <br/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=1AF761&lines=Next.js+%7C%7C+Nuxt.js+%7C%7C+Nest.js;React+%7C%7C+Vue+%7C%7C+Python+%7C%7C+Django+Enthusiastic;Learning+New+Things+Everyday;Never+Stop+Learning!&center=true&width=800&height=45" alt="olderdev1003">
+  <img src="https://readme-typing-svg.herokuapp.com?color=1AF761&lines=Next.js+%7C%7C+Nuxt.js+%7C%7C+Nest.js;React+%7C%7C+Vue+%7C%7C+Python+%7C%7C+Django+Enthusiastic;Learning+New+Things+Everyday;Never+Stop+Learning!&center=true&width=800&height=45" alt="olderdev523">
 </p>
 <hr/>
 
@@ -39,7 +39,7 @@
 
 
 <p align="center">
-	<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=olderdev1003&theme=tokyonight_duo&hide_border=true" alt="olderdev1003" />
+	<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=olderdev523&theme=tokyonight_duo&hide_border=true" alt="olderdev523" />
   <p align="center"> Stay hungry, Stay foolish 🔥 </p>
 </p>
 
@@ -90,13 +90,13 @@
 
 ## ⚡ Recent GitHub Activity
 <br/>
- <img alt="olderdev1003's's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=olderdev1003&custom_title=olderdev1003's%20Contribution%20Graph&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=false" />
+ <img alt="olderdev523's's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=olderdev523&custom_title=olderdev523's%20Contribution%20Graph&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=false" />
 <br/>
 
 ## 📊 Github Stats
 
-<img align="left" alt="olderdev1003's's Github Stats" src="https://github-readme-stats.vercel.app/api?username=olderdev1003&show_icons=true&include_all_commits=true&count_private=true&icon_color=fff&text_color=fff&bg_color=DEG,000,000,001,002,003" height="170px"/>
-<img align="right" alt="olderdev1003's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=olderdev1003&layout=compact&langs_count=8&theme=dark&hide_border=false&title_color=F85D7F&icon_color=F8D866" height="170px"/>
+<img align="left" alt="olderdev523's's Github Stats" src="https://github-readme-stats.vercel.app/api?username=olderdev523&show_icons=true&include_all_commits=true&count_private=true&icon_color=fff&text_color=fff&bg_color=DEG,000,000,001,002,003" height="170px"/>
+<img align="right" alt="olderdev523's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=olderdev523&layout=compact&langs_count=8&theme=dark&hide_border=false&title_color=F85D7F&icon_color=F8D866" height="170px"/>
 
 
 
